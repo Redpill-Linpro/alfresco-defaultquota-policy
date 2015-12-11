@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Alfresco Default Quota Policy
 
 - Author: Niklas Ekman (niklas.ekman@redpill-linpro.com) & Jared Ottley (jared.ottley@alfresco.com)
@@ -20,4 +19,3 @@ alfresco-defaultquota-policy
 ============================
 
 This module adds a policy allowing you to set the Default Quota when a new user is added to Alfresco
->>>>>>> 6ea79cc0e74a78da50aae0e29eb810350264e036
