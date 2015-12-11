@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Alfresco Default Quota Policy
 
 - Author: Niklas Ekman (niklas.ekman@redpill-linpro.com) & Jared Ottley (jared.ottley@alfresco.com)
@@ -14,3 +15,9 @@ The default value is set in a context file and must be defined in bytes.
 Currently tested with 4.2.2
 
 Based on the original code by Jared Ottley, Mavenized and updated for Alfresco Enterprise 4.2.2.
+=======
+alfresco-defaultquota-policy
+============================
+
+This module adds a policy allowing you to set the Default Quota when a new user is added to Alfresco
+>>>>>>> 6ea79cc0e74a78da50aae0e29eb810350264e036
